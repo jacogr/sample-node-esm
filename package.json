@@ -1,0 +1,12 @@
+{
+  "name": "sample-node-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "github.com:jacogr/sample-node-esm",
+  "author": "Jaco Greeff <jacogr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^4.0.3"
+  }
+}
